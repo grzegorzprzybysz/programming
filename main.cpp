@@ -27,7 +27,9 @@ int main(string PIN)
         cout << "niepoprawny pin, sprobuj ponownie";
     }
 
-
+cout << "wyplac gotowke"
+cout << "sprawdz saldo"
+    
 
 
 
